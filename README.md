@@ -10,7 +10,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (OReilly 机�
 ## 目录结构
 ### 第一部分 机器学习基础
 
-* 1.) [机器学习愿景]()
+* 1.) [机器学习愿景](/docs/1.机器学习愿景.md)
 * 2.) [End-to-End 机器学习项目]()
 * 3.) [分类]()
 * 4.) [训练模型]()
@@ -34,11 +34,11 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (OReilly 机�
 
 > 项目负责人
 
-* [@akonwang](https://github.com/apachecn): 279354244(QQ)
+* [企鹅-@akonwang](https://github.com/wangxupeng/): 279354244
 
 > 项目贡献者
 
-* [@jiangzhonglian](https://github.com/jiangzhonglian): 529815144
+* [企鹅-@片刻](https://github.com/jiangzhonglian): 529815144
 
 
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
