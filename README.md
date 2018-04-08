@@ -34,12 +34,12 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 
 > 项目负责人
 
-* [企鹅-@akonwang](https://github.com/wangxupeng/): 279354244
+* [企鹅-@akonwang](https://github.com/wangxupeng): 279354244
 
 > 项目贡献者
 
 * [企鹅-@片刻](https://github.com/jiangzhonglian): 529815144
-
+* [企鹅-@Lisanaaa](https://github.com/Lisanaaa): 1369342903
 
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
 
