@@ -1,11 +1,12 @@
 # OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 
-OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (OReilly 机器学习与Sklearn和TensorFlow)
+OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与TensorFlow机器学习实用指南)
 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
 * **ApacheCN - 学习机器学习群【629470233】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef"><img border="0" src="/images/MainPage/ApacheCN-group.png" alt="ApacheCN - 学习机器学习群[629470233]" title="ApacheCN - 学习机器学习群[629470233]"></a>**
 * **Machine Learning in Action (机器学习实战) | [ApacheCN(apache中文网)](http://cwiki.apachecn.org/)**
+
 
 ## 目录结构
 ### 第一部分 机器学习基础
@@ -21,10 +22,10 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (OReilly 机�
 
 ### 第二部分 神经网络与深度学习
 
-* 9.) [用 TensorFlow 启动并运行]()
+* 9.) [用TensorFlow启动并运行]()
 * 10.) [人工神经网络介绍]()
 * 11.) [训练深层神经网络]()
-* 12.) [在设备和服务器伤的分布式 TensorFlow]()
+* 12.) [在设备和服务器上的分布式TensorFlow]()
 * 13.) [卷积神经网络]()
 * 14.) [循环神经网络]()
 * 15.) [自动编码器]()
@@ -34,12 +35,12 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (OReilly 机�
 
 > 项目负责人
 
-* [企鹅-@akonwang](https://github.com/wangxupeng/): 279354244
+* [企鹅-@akonwang](https://github.com/wangxupeng): 279354244
 
 > 项目贡献者
 
 * [企鹅-@片刻](https://github.com/jiangzhonglian): 529815144
-
+* [企鹅-@Lisanaaa](https://github.com/Lisanaaa): 1369342903
 
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
 
