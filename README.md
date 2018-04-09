@@ -41,6 +41,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 
 * [企鹅-@片刻](https://github.com/jiangzhonglian): 529815144
 * [企鹅-@Lisanaaa](https://github.com/Lisanaaa): 1369342903
+* [简书-@SeanCheney](https://www.jianshu.com/u/130f76596b02)
 
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
 
