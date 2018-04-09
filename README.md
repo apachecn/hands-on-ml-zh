@@ -11,7 +11,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 ## 目录结构
 ### 第一部分 机器学习基础
 
-* 1.) [机器学习概览](/docs/1.机器学习愿景.md)
+* 1.) [机器学习概览](/docs/1.机器学习概览.md)
 * 2.) [端到端的机器学习项目]()
 * 3.) [分类]()
 * 4.) [训练模型]()
