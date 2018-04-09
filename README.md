@@ -22,7 +22,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 
 ### 第二部分 神经网络与深度学习
 
-* 9.) [用TensorFlow启动并运行]()
+* 9.) [用TensorFlow启动并运行](/docs/9.用TensorFlow启动并运行.md)
 * 10.) [人工神经网络介绍]()
 * 11.) [训练深层神经网络]()
 * 12.) [在设备和服务器上的分布式TensorFlow]()
