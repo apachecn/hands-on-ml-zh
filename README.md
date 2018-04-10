@@ -35,13 +35,34 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 
 > 项目负责人
 
-* [企鹅-@akonwang](https://github.com/wangxupeng): 279354244
+* [@SeanCheney](https://www.jianshu.com/u/130f76596b02): 731384963
+* [@飞龙](https://github.com/wizardforcel): 562826179
 
 > 项目贡献者
 
-* [企鹅-@片刻](https://github.com/jiangzhonglian): 529815144
-* [企鹅-@Lisanaaa](https://github.com/Lisanaaa): 1369342903
-* [简书-@SeanCheney](https://www.jianshu.com/u/130f76596b02)
+| 标题 | 译者 |
+| --- | --- |
+| [前言](/docs/0.前言.md) | [@小瑶](https://github.com/chenyyx) |
+| **第一部分 机器学习基础** | - |
+| [一、机器学习概览](/docs/1.机器学习概览.md) | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) |
+| [二、端到端的机器学习项目]() | [*@SeanCheney*](https://www.jianshu.com/u/130f76596b02) |
+| [三、分类]() | |
+| [四、训练模型]() | |
+| [五、支持向量机]() | |
+| [六、决策树]() | |
+| [七、集成学习和随机森林]() | |
+| [八、降维]() | |
+| **第二部分 神经网络与深度学习** | - |
+| [九、用TensorFlow启动并运行](/docs/9.用TensorFlow启动并运行.md) | [@akonwang](https://github.com/wangxupeng) |
+| [十、人工神经网络介绍]() | [@akonwang](https://github.com/wangxupeng) |
+| [十一、训练深层神经网络]() | [@akonwang](https://github.com/wangxupeng) |
+| [十二、在设备和服务器上的分布式TensorFlow]() | |
+| [十三、卷积神经网络]() | [@akonwang](https://github.com/wangxupeng) |
+| [十四、循环神经网络]() | [@akonwang](https://github.com/wangxupeng) |
+| [十五、自编码器]() | |
+| [十六、强化学习]() | |
+| 其它 | [@片刻](https://github.com/jiangzhonglian) [@Lisanaaa](https://github.com/Lisanaaa) |
+
 
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
 
