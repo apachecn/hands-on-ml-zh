@@ -45,7 +45,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 | [前言](/docs/0.前言.md) | [@小瑶](https://github.com/chenyyx) | [@小瑶](https://github.com/chenyyx) |
 | **第一部分 机器学习基础** | - |
 | [一、机器学习概览](/docs/1.机器学习概览.md) | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) |
-| [二、端到端的机器学习项目]() | [*@SeanCheney*](https://www.jianshu.com/u/130f76596b02) |
+| [二、端到端的机器学习项目]() | [*@SeanCheney*](https://www.jianshu.com/u/130f76596b02) | [*@Lisanaaa*](https://github.com/Lisanaaa) |
 | [三、分类]() | |
 | [四、训练模型]() | |
 | [五、支持向量机]() | |
