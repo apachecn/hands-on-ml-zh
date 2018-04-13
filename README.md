@@ -23,11 +23,11 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 ### 第二部分 神经网络与深度学习
 
 * 9.) [用TensorFlow启动并运行](/docs/9.用TensorFlow启动并运行.md)
-* 10.) [人工神经网络介绍]()
-* 11.) [训练深层神经网络]()
+* 10.) [人工神经网络介绍](/docs/10.人工神经网络介绍.md)
+* 11.) [训练深层神经网络](/docs/11.训练深层神经网络.md)
 * 12.) [在设备和服务器上的分布式TensorFlow]()
-* 13.) [卷积神经网络]()
-* 14.) [循环神经网络]()
+* 13.) [卷积神经网络](/docs/13.卷积神经网络.md)
+* 14.) [循环神经网络](/docs/14.循环神经网络.md)
 * 15.) [自编码器]()
 * 16.) [强化学习]()
 
@@ -40,22 +40,22 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 
 > 项目贡献者
 
-| 标题 | 译者 |
-| --- | --- |
-| [前言](/docs/0.前言.md) | [@小瑶](https://github.com/chenyyx) |
+| 标题 | 译者 | 校对 |
+| --- | --- | --- |
+| [前言](/docs/0.前言.md) | [@小瑶](https://github.com/chenyyx) | [@小瑶](https://github.com/chenyyx) |
 | **第一部分 机器学习基础** | - |
-| [一、机器学习概览](/docs/1.机器学习概览.md) | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) |
-| [二、端到端的机器学习项目]() | [*@SeanCheney*](https://www.jianshu.com/u/130f76596b02) |
+| [一、机器学习概览](/docs/1.机器学习概览.md) | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) |
+| [二、端到端的机器学习项目]() | [*@SeanCheney*](https://www.jianshu.com/u/130f76596b02) | [*@Lisanaaa*](https://github.com/Lisanaaa) |
 | [三、分类]() | |
 | [四、训练模型]() | |
 | [五、支持向量机]() | |
-| [六、决策树]() | |
+| [六、决策树]() | [*@Lisanaaa*](https://github.com/Lisanaaa) |
 | [七、集成学习和随机森林]() | |
 | [八、降维]() | |
 | **第二部分 神经网络与深度学习** | - |
 | [九、用TensorFlow启动并运行](/docs/9.用TensorFlow启动并运行.md) | [@akonwang](https://github.com/wangxupeng) |
 | [十、人工神经网络介绍]() | [@akonwang](https://github.com/wangxupeng) |
-| [十一、训练深层神经网络]() | [@akonwang](https://github.com/wangxupeng) |
+| [十一、训练深层神经网络]() | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | [*@飞龙*](https://github.com/wizardforcel) |
 | [十二、在设备和服务器上的分布式TensorFlow]() | |
 | [十三、卷积神经网络]() | [@akonwang](https://github.com/wangxupeng) |
 | [十四、循环神经网络]() | [@akonwang](https://github.com/wangxupeng) |
