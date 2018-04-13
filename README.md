@@ -9,14 +9,17 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 
 
 ## 目录结构
+
+* 0.) [前言](/docs/0.前言.md)
+
 ### 第一部分 机器学习基础
 
 * 1.) [机器学习概览](/docs/1.机器学习概览.md)
-* 2.) [端到端的机器学习项目]()
+* 2.) [端到端的机器学习项目](/docs/2.端到端的机器学习项目.md)
 * 3.) [分类]()
 * 4.) [训练模型]()
 * 5.) [支持向量机]()
-* 6.) [决策树]()
+* 6.) [决策树](/docs/6.决策树.md)
 * 7.) [集成学习和随机森林]()
 * 8.) [降维]()
 
@@ -61,7 +64,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 | [十四、循环神经网络]() | [@akonwang](https://github.com/wangxupeng) |
 | [十五、自编码器]() | |
 | [十六、强化学习]() | |
-| 其它 | [@片刻](https://github.com/jiangzhonglian) [@Lisanaaa](https://github.com/Lisanaaa) |
+| 其它 | [@片刻](https://github.com/jiangzhonglian) |
 
 
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
