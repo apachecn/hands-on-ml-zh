@@ -53,7 +53,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 | 二、端到端的机器学习项目 | [*@SeanCheney*](https://www.jianshu.com/u/130f76596b02) | [*@Lisanaaa*](https://github.com/Lisanaaa) |
 | 三、分类 | |
 | 四、训练模型 | |
-| 五、支持向量机x | |
+| 五、支持向量机 | |
 | 六、决策树 | [*@Lisanaaa*](https://github.com/Lisanaaa) |
 | 七、集成学习和随机森林 | |
 | 八、降维 | |
