@@ -56,9 +56,9 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与Te
 | [七、集成学习和随机森林]() | |
 | [八、降维]() | |
 | **第二部分 神经网络与深度学习** | - |
-| [九、用TensorFlow启动并运行](/docs/9.用TensorFlow启动并运行.md) | [@akonwang](https://github.com/wangxupeng) |
+| [九、用TensorFlow启动并运行](/docs/9.用TensorFlow启动并运行.md) | [@akonwang](https://github.com/wangxupeng) | [@Lisanaaa](https://github.com/Lisanaaa) |
 | [十、人工神经网络介绍]() | [@akonwang](https://github.com/wangxupeng) |
-| [十一、训练深层神经网络]() | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | [*@飞龙*](https://github.com/wizardforcel) |
+| [十一、训练深层神经网络]() | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | |
 | [十二、在设备和服务器上的分布式TensorFlow]() | |
 | [十三、卷积神经网络]() | [@akonwang](https://github.com/wangxupeng) |
 | [十四、循环神经网络]() | [@akonwang](https://github.com/wangxupeng) |
