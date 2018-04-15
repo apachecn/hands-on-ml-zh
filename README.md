@@ -33,7 +33,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 * 12.) [在设备和服务器上的分布式TensorFlow]()
 * 13.) [卷积神经网络](/docs/13.卷积神经网络.md)
 * 14.) [循环神经网络](/docs/14.循环神经网络.md)
-* 15.) [自编码器]()
+* 15.) [自编码器](/docs/15.自编码器.md)
 * 16.) [强化学习]()
 
 ## 联系方式
@@ -64,7 +64,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 | 十二、在设备和服务器上的分布式TensorFlow | |
 | 十三、卷积神经网络 | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) |
 | 十四、循环神经网络 | [@akonwang](https://github.com/wangxupeng) |
-| 十五、自编码器 | |
+| 十五、自编码器 | [@akonwang](https://github.com/wangxupeng) |
 | 十六、强化学习 | |
 | 其它 | [@片刻](https://github.com/jiangzhonglian) |
 
