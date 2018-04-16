@@ -1,6 +1,6 @@
 # Sklearn 与 TensorFlow 机器学习实用指南
 
-![](images/MainPage/cover.jpg)
+![](cover.jpg)
 
 OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 
