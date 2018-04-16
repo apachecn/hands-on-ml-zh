@@ -18,23 +18,23 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 
 * 1.) [机器学习概览](/docs/1.机器学习概览.md)
 * 2.) [一个完整的机器学习项目](/docs/2.一个完整的机器学习项目.md)
-* 3.) [分类]()
-* 4.) [训练模型]()
-* 5.) [支持向量机]()
+* 3.) [分类](/docs/3.分类.md)
+* 4.) [训练模型](/docs/4.训练模型.md)
+* 5.) [支持向量机](/docs/5.支持向量机.md)
 * 6.) [决策树](/docs/6.决策树.md)
-* 7.) [集成学习和随机森林]()
-* 8.) [降维]()
+* 7.) [集成学习和随机森林](/docs/7.集成学习和随机森林.md)
+* 8.) [降维](/docs/8.降维.md)
 
 ### 第二部分 神经网络与深度学习
 
 * 9.) [启动并运行TensorFlow](/docs/9.启动并运行TensorFlow.md)
 * 10.) [人工神经网络介绍](/docs/10.人工神经网络介绍.md)
 * 11.) [训练深层神经网络](/docs/11.训练深层神经网络.md)
-* 12.) [在设备和服务器上的分布式TensorFlow]()
+* 12.) [设备和服务器上的分布式TensorFlow](/docs/12.设备和服务器上的分布式TensorFlow.md)
 * 13.) [卷积神经网络](/docs/13.卷积神经网络.md)
 * 14.) [循环神经网络](/docs/14.循环神经网络.md)
 * 15.) [自编码器](/docs/15.自编码器.md)
-* 16.) [强化学习]()
+* 16.) [强化学习](/docs/16.强化学习.md)
 
 ## 联系方式
 
@@ -56,12 +56,12 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 | 五、支持向量机 | |
 | 六、决策树 | [*@Lisanaaa*](https://github.com/Lisanaaa) |
 | 七、集成学习和随机森林 | |
-| 八、降维 | |
+| 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) |
 | **第二部分 神经网络与深度学习** | - |
 | 九、启动并运行TensorFlow | [@akonwang](https://github.com/wangxupeng) | [@Lisanaaa](https://github.com/Lisanaaa) |
 | 十、人工神经网络介绍 | [@akonwang](https://github.com/wangxupeng) |
 | 十一、训练深层神经网络 | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | |
-| 十二、在设备和服务器上的分布式TensorFlow | |
+| 十二、设备和服务器上的分布式TensorFlow | |
 | 十三、卷积神经网络 | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) |
 | 十四、循环神经网络 | [@akonwang](https://github.com/wangxupeng) |
 | 十五、自编码器 | [@akonwang](https://github.com/wangxupeng) |
