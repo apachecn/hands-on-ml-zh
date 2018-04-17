@@ -51,7 +51,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 | **第一部分 机器学习基础** | - |
 | 一、机器学习概览 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) |
 | 二、一个完整的机器学习项目 | [*@SeanCheney*](https://www.jianshu.com/u/130f76596b02) | [*@Lisanaaa*](https://github.com/Lisanaaa) |
-| 三、分类 | [@时间魔术师](https://github.com/hewind1992) |
+| 三、分类 | [@时间魔术师](https://github.com/hewind1992) | [@Lisanaaa](https://github.com/Lisanaaa) |
 | 四、训练模型 | [*@C-PIG*](https://github.com/C-PIG) |
 | 五、支持向量机 | |
 | 六、决策树 | [*@Lisanaaa*](https://github.com/Lisanaaa) |
