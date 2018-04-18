@@ -55,7 +55,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 | 四、训练模型 | [*@C-PIG*](https://github.com/C-PIG) |
 | 五、支持向量机 | |
 | 六、决策树 | [*@Lisanaaa*](https://github.com/Lisanaaa) |
-| 七、集成学习和随机森林 | |
+| 七、集成学习和随机森林 | [@friedhelm739](https://github.com/friedhelm739) |
 | 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) |
 | **第二部分 神经网络与深度学习** | - |
 | 九、启动并运行TensorFlow | [@akonwang](https://github.com/wangxupeng) | [@Lisanaaa](https://github.com/Lisanaaa) |
