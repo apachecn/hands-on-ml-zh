@@ -6,9 +6,9 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
-* **ApacheCN - 学习机器学习群【629470233】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef"><img border="0" src="/images/MainPage/ApacheCN-group.png" alt="ApacheCN - 学习机器学习群[629470233]" title="ApacheCN - 学习机器学习群[629470233]"></a>**
-* **Machine Learning in Action (机器学习实战) | [ApacheCN(apache中文网)](http://cwiki.apachecn.org/)**
-
+* **ApacheCN - 学习机器学习群【629470233】**[![](images/MainPage/ApacheCN-group.png)](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
+* **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache中文网）](http://www.apachecn.org/)**
+* **[@SeanCheney](https://www.jianshu.com/u/130f76596b02) 翻译的[利用 Python 进行数据分析·第二版](https://www.jianshu.com/p/04d180d90a3f)**
 
 ## 目录结构
 
@@ -49,18 +49,18 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 | --- | --- | --- |
 | 前言 | [@小瑶](https://github.com/chenyyx) | [@小瑶](https://github.com/chenyyx) |
 | **第一部分 机器学习基础** | - |
-| 一、机器学习概览 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) |
+| 一、机器学习概览 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
 | 二、一个完整的机器学习项目 | [*@SeanCheney*](https://www.jianshu.com/u/130f76596b02) | [*@Lisanaaa*](https://github.com/Lisanaaa) |
 | 三、分类 | [@时间魔术师](https://github.com/hewind1992) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
 | 四、训练模型 | [*@C-PIG*](https://github.com/C-PIG) |
 | 五、支持向量机 | |
 | 六、决策树 | [*@Lisanaaa*](https://github.com/Lisanaaa) |
-| 七、集成学习和随机森林 | |
+| 七、集成学习和随机森林 | [*@friedhelm739*](https://github.com/friedhelm739) |
 | 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) |
 | **第二部分 神经网络与深度学习** | - |
 | 九、启动并运行TensorFlow | [@akonwang](https://github.com/wangxupeng) | [@Lisanaaa](https://github.com/Lisanaaa) |
 | 十、人工神经网络介绍 | [@akonwang](https://github.com/wangxupeng) |
-| 十一、训练深层神经网络 | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | |
+| 十一、训练深层神经网络 | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | [@飞龙](https://github.com/wizardforcel) |
 | 十二、设备和服务器上的分布式TensorFlow | |
 | 十三、卷积神经网络 | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) |
 | 十四、循环神经网络 | [@akonwang](https://github.com/wangxupeng) |
