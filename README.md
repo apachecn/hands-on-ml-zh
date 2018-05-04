@@ -61,7 +61,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 | 九、启动并运行TensorFlow | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
 | 十、人工神经网络介绍 | [@akonwang](https://github.com/wangxupeng) |
 | 十一、训练深层神经网络 | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | [@飞龙](https://github.com/wizardforcel) |
-| 十二、设备和服务器上的分布式TensorFlow | |
+| 十二、设备和服务器上的分布式TensorFlow | [*@空白*](https://github.com/yhcheer) |
 | 十三、卷积神经网络 | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@飞龙](https://github.com/wizardforcel) |
 | 十四、循环神经网络 | [@akonwang](https://github.com/wangxupeng) @Gladiator [@alexcheen](https://github.com/alexcheen) | [@飞龙](https://github.com/wizardforcel) |
 | 十五、自编码器 | [@akonwang](https://github.com/wangxupeng) | [@飞龙](https://github.com/wizardforcel) |
