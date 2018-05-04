@@ -53,7 +53,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 | 二、一个完整的机器学习项目 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [*@Lisanaaa*](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
 | 三、分类 | [@时间魔术师](https://github.com/hewind1992) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
 | 四、训练模型 | [@C-PIG](https://github.com/C-PIG) | [@PeterHo](https://github.com/PeterHo) |
-| 五、支持向量机 | [@QiaoXie](https://github.com/QiaoXie) | [@飞龙](https://github.com/wizardforcel) |
+| 五、支持向量机 | [@QiaoXie](https://github.com/QiaoXie) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) |
 | 六、决策树 | [*@Lisanaaa*](https://github.com/Lisanaaa) |
 | 七、集成学习和随机森林 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) |
 | 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) | [@飞龙](https://github.com/wizardforcel) |
@@ -63,7 +63,7 @@ OReilly Hands On Machine Learning with Scikit Learn and TensorFlow
 | 十一、训练深层神经网络 | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | [@飞龙](https://github.com/wizardforcel) |
 | 十二、设备和服务器上的分布式TensorFlow | |
 | 十三、卷积神经网络 | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@飞龙](https://github.com/wizardforcel) |
-| 十四、循环神经网络 | [@akonwang](https://github.com/wangxupeng) @Gladiator | [@飞龙](https://github.com/wizardforcel) |
+| 十四、循环神经网络 | [@akonwang](https://github.com/wangxupeng) @Gladiator [@alexcheen](https://github.com/alexcheen) | [@飞龙](https://github.com/wizardforcel) |
 | 十五、自编码器 | [@akonwang](https://github.com/wangxupeng) | [@飞龙](https://github.com/wizardforcel) |
 | 十六、强化学习 | |
 | 其它 | [@片刻](https://github.com/jiangzhonglian) |
