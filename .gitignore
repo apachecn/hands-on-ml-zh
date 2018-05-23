@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Gitbook
+_book/
+
+# Windows
+Thumbs.db
+
+# Node.js
+node_modules/

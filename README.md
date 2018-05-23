@@ -67,6 +67,14 @@
 | 十六、强化学习 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) |
 | 其它 | [@片刻](https://github.com/jiangzhonglian) |
 
+## 编译
+
+```
+gitbook install # 安装必要的插件
+gitbook serve   # 编译 HTML
+gitbook epub    # 编译 EPUB
+```
+
 ## 免责声明
 
 ApacheCN 纯粹出于学习目的与个人兴趣翻译本书，不追求任何经济利益。
