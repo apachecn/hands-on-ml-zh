@@ -50,7 +50,7 @@
 | **第一部分 机器学习基础** | - |
 | 一、机器学习概览 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@yanmengk](https://github.com/yanmengk) |
 | 二、一个完整的机器学习项目 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) |
-| 三、分类 | [@时间魔术师](https://github.com/hewind1992) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
+| 三、分类 | [@时间魔术师](https://github.com/hewind1992) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@ZTFrom1994](https://github.com/ZTFrom1994) |
 | 四、训练模型 | [@C-PIG](https://github.com/C-PIG) | [@PeterHo](https://github.com/PeterHo) [@飞龙](https://github.com/wizardforcel) |
 | 五、支持向量机 | [@QiaoXie](https://github.com/QiaoXie) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) |
 | 六、决策树 | [*@Lisanaaa*](https://github.com/Lisanaaa) |
