@@ -81,6 +81,10 @@ ApacheCN 纯粹出于学习目的与个人兴趣翻译本书，不追求任何�
 
 本译文只供学习研究参考之用，不得用于商业用途。ApacheCN 保留对此版本译文的署名权及其它相关权利。
 
+## 赞助我们
+
+![](http://www.apachecn.org/wp-content/uploads/2018/02/%E6%94%AF%E4%BB%98-%E5%BE%AE%E4%BF%A1%E5%92%8C%E6%94%AF%E4%BB%98%E5%AE%9D-1024x591.png)
+
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
 
 | 深度学习 | 机器学习  | 大数据 | 运维工具 |
