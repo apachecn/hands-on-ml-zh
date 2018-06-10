@@ -55,7 +55,7 @@
 | 五、支持向量机 | [@QiaoXie](https://github.com/QiaoXie) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
 | 六、决策树 | [*@Lisanaaa*](https://github.com/Lisanaaa) |
 | 七、集成学习和随机森林 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
-| 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) |
+| 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
 | **第二部分 神经网络与深度学习** | - |
 | 九、启动并运行TensorFlow | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
 | 十、人工神经网络介绍 | [@akonwang](https://github.com/wangxupeng) [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) |
