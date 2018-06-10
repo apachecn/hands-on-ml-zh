@@ -4,9 +4,9 @@
 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
-* **ApacheCN - 学习机器学习群【629470233】**[![](images/MainPage/ApacheCN-group.png)](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
-* **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache中文网）](http://www.apachecn.org/)**
-* **[@SeanCheney](https://www.jianshu.com/u/130f76596b02) 翻译的[利用 Python 进行数据分析·第二版](https://www.jianshu.com/p/04d180d90a3f)**
+* **[ApacheCN - 学习机器学习群【629470233】](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)**
+* **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache 中文网）](http://www.apachecn.org/)**
+* **[@SeanCheney](https://www.jianshu.com/u/130f76596b02) 翻译的[《利用 Python 进行数据分析 第二版》](https://www.jianshu.com/p/04d180d90a3f)**
 
 ## 目录结构
 
@@ -48,13 +48,13 @@
 | --- | --- | --- |
 | 前言 | [@小瑶](https://github.com/chenyyx) | [@小瑶](https://github.com/chenyyx) |
 | **第一部分 机器学习基础** | - |
-| 一、机器学习概览 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
+| 一、机器学习概览 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@yanmengk](https://github.com/yanmengk) [@Liu Shangfeng](https://github.com/codershangfeng) |
 | 二、一个完整的机器学习项目 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) |
-| 三、分类 | [@时间魔术师](https://github.com/hewind1992) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
+| 三、分类 | [@时间魔术师](https://github.com/hewind1992) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@ZTFrom1994](https://github.com/ZTFrom1994) |
 | 四、训练模型 | [@C-PIG](https://github.com/C-PIG) | [@PeterHo](https://github.com/PeterHo) [@飞龙](https://github.com/wizardforcel) |
-| 五、支持向量机 | [@QiaoXie](https://github.com/QiaoXie) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) |
+| 五、支持向量机 | [@QiaoXie](https://github.com/QiaoXie) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
 | 六、决策树 | [*@Lisanaaa*](https://github.com/Lisanaaa) |
-| 七、集成学习和随机森林 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) |
+| 七、集成学习和随机森林 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
 | 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) |
 | **第二部分 神经网络与深度学习** | - |
 | 九、启动并运行TensorFlow | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
@@ -67,11 +67,23 @@
 | 十六、强化学习 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) |
 | 其它 | [@片刻](https://github.com/jiangzhonglian) |
 
+## 编译
+
+```
+gitbook install # 安装必要的插件
+gitbook serve   # 编译 HTML
+gitbook epub    # 编译 EPUB
+```
+
 ## 免责声明
 
 ApacheCN 纯粹出于学习目的与个人兴趣翻译本书，不追求任何经济利益。
 
 本译文只供学习研究参考之用，不得用于商业用途。ApacheCN 保留对此版本译文的署名权及其它相关权利。
+
+## 赞助我们
+
+![](http://www.apachecn.org/wp-content/uploads/2018/02/%E6%94%AF%E4%BB%98-%E5%BE%AE%E4%BF%A1%E5%92%8C%E6%94%AF%E4%BB%98%E5%AE%9D-1024x591.png)
 
 ## [ApacheCN 组织资源](http://www.apachecn.org/)
 
