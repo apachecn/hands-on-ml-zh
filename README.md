@@ -8,6 +8,14 @@
 * **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache 中文网）](http://www.apachecn.org/)**
 * **[@SeanCheney](https://www.jianshu.com/u/130f76596b02) 翻译的[《利用 Python 进行数据分析 第二版》](https://www.jianshu.com/p/04d180d90a3f)**
 
+&zwj;
+
++ [在线阅读](https://www.gitbook.com/book/wizardforcel/hands-on-ml-with-sklearn-and-tf/details)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/hands-on-ml-with-sklearn-and-tf)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/hands-on-ml-with-sklearn-and-tf)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/hands-on-ml-with-sklearn-and-tf)
++ [代码仓库](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
+
 ## 目录结构
 
 * 0.) [前言](/docs/0.前言.md)
