@@ -53,7 +53,7 @@
 | 三、分类 | [@时间魔术师](https://github.com/hewind1992) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@ZTFrom1994](https://github.com/ZTFrom1994) |
 | 四、训练模型 | [@C-PIG](https://github.com/C-PIG) | [@PeterHo](https://github.com/PeterHo) [@飞龙](https://github.com/wizardforcel) |
 | 五、支持向量机 | [@QiaoXie](https://github.com/QiaoXie) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
-| 六、决策树 | [@Lisanaaa](https://github.com/Lisanaaa) [@y3534365](https://github.com/y3534365) |
+| 六、决策树 | [@Lisanaaa](https://github.com/Lisanaaa) [@y3534365](https://github.com/y3534365) | [@飞龙](https://github.com/wizardforcel) |
 | 七、集成学习和随机森林 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
 | 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
 | **第二部分 神经网络与深度学习** | - |
