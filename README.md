@@ -78,6 +78,7 @@
 | 十四、循环神经网络 | [@akonwang](https://github.com/wangxupeng) [@alexcheen](https://github.com/alexcheen) [@飞龙](https://github.com/wizardforcel) | [@飞龙](https://github.com/wizardforcel) |
 | 十五、自编码器 | [@akonwang](https://github.com/wangxupeng) | [@飞龙](https://github.com/wizardforcel) [@yanmengk](https://github.com/yanmengk) |
 | 十六、强化学习 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@rickllyxu](https://github.com/rickllyxu) |
+| **附录** | - | - |
 | 附录 C、SVM 对偶问题 | [@rickllyxu](https://github.com/rickllyxu) |
 | 附录 D、自动求导 | [@rickllyxu](https://github.com/rickllyxu) |
 | 其它 | [@片刻](https://github.com/jiangzhonglian) |
