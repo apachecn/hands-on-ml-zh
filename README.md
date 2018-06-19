@@ -18,29 +18,34 @@
 
 ## 目录结构
 
-* 0.) [前言](/docs/0.前言.md)
+* 0.) [前言](docs/0.前言.md)
 
 ### 第一部分 机器学习基础
 
-* 1.) [机器学习概览](/docs/1.机器学习概览.md)
-* 2.) [一个完整的机器学习项目](/docs/2.一个完整的机器学习项目.md)
-* 3.) [分类](/docs/3.分类.md)
-* 4.) [训练模型](/docs/4.训练模型.md)
-* 5.) [支持向量机](/docs/5.支持向量机.md)
-* 6.) [决策树](/docs/6.决策树.md)
-* 7.) [集成学习和随机森林](/docs/7.集成学习和随机森林.md)
-* 8.) [降维](/docs/8.降维.md)
+* [一、机器学习概览](docs/1.机器学习概览.md)
+* [二、一个完整的机器学习项目](docs/2.一个完整的机器学习项目.md)
+* [三、分类](docs/3.分类.md)
+* [四、训练模型](docs/4.训练模型.md)
+* [五、支持向量机](docs/5.支持向量机.md)
+* [六、决策树](docs/6.决策树.md)
+* [七、集成学习和随机森林](docs/7.集成学习和随机森林.md)
+* [八、降维](docs/8.降维.md)
 
 ### 第二部分 神经网络与深度学习
 
-* 9.) [启动并运行TensorFlow](/docs/9.启动并运行TensorFlow.md)
-* 10.) [人工神经网络介绍](/docs/10.人工神经网络介绍.md)
-* 11.) [训练深层神经网络](/docs/11.训练深层神经网络.md)
-* 12.) [设备和服务器上的分布式TensorFlow](/docs/12.设备和服务器上的分布式TensorFlow.md)
-* 13.) [卷积神经网络](/docs/13.卷积神经网络.md)
-* 14.) [循环神经网络](/docs/14.循环神经网络.md)
-* 15.) [自编码器](/docs/15.自编码器.md)
-* 16.) [强化学习](/docs/16.强化学习.md)
+* [九、启动并运行 TensorFlow](docs/9.启动并运行_TensorFlow.md)
+* [十、人工神经网络介绍](docs/10.人工神经网络介绍.md)
+* [十一、训练深层神经网络](docs/11.训练深层神经网络.md)
+* [十二、设备和服务器上的分布式 TensorFlow](docs/12.设备和服务器上的分布式_TensorFlow.md)
+* [十三、卷积神经网络](docs/13.卷积神经网络.md)
+* [十四、循环神经网络](docs/14.循环神经网络.md)
+* [十五、自编码器](docs/15.自编码器.md)
+* [十六、强化学习](docs/16.强化学习.md)
+
+### 附录
+
+* [附录 C、SVM 对偶问题](docs/C.SVM_对偶问题.md)
+* [附录 D、自动求导](docs/D.自动微分.md)
 
 ## 联系方式
 
@@ -65,14 +70,16 @@
 | 七、集成学习和随机森林 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
 | 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
 | **第二部分 神经网络与深度学习** | - |
-| 九、启动并运行TensorFlow | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
+| 九、启动并运行 TensorFlow | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
 | 十、人工神经网络介绍 | [@akonwang](https://github.com/wangxupeng) [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) |
 | 十一、训练深层神经网络 | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | [@飞龙](https://github.com/wizardforcel) [@Zeyu Zhong](https://github.com/zhearing) |
-| 十二、设备和服务器上的分布式TensorFlow | [*@空白*](https://github.com/yhcheer) | [@飞龙](https://github.com/wizardforcel) |
+| 十二、设备和服务器上的分布式 TensorFlow | [*@空白*](https://github.com/yhcheer) | [@飞龙](https://github.com/wizardforcel) |
 | 十三、卷积神经网络 | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@飞龙](https://github.com/wizardforcel) [@yanmengk](https://github.com/yanmengk) |
 | 十四、循环神经网络 | [@akonwang](https://github.com/wangxupeng) [@alexcheen](https://github.com/alexcheen) [@飞龙](https://github.com/wizardforcel) | [@飞龙](https://github.com/wizardforcel) |
 | 十五、自编码器 | [@akonwang](https://github.com/wangxupeng) | [@飞龙](https://github.com/wizardforcel) [@yanmengk](https://github.com/yanmengk) |
-| 十六、强化学习 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) |
+| 十六、强化学习 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@rickllyxu](https://github.com/rickllyxu) |
+| 附录 C、SVM 对偶问题 | [@rickllyxu](https://github.com/rickllyxu) |
+| 附录 D、自动求导 | [@rickllyxu](https://github.com/rickllyxu) |
 | 其它 | [@片刻](https://github.com/jiangzhonglian) |
 
 ## 编译
