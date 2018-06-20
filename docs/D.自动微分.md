@@ -84,7 +84,7 @@ df_dy = derivative(f, 3, 4, 0, 0.00001)
 
 ![E_D-3](../images/Appendix/E_D-3.png)
 
-最重要的，可证明`h(a + bϵ) = h(a) + b × h'(a)ϵ`，所以计算一次`h(a + ϵ)`就得到了两个值`h(a)`和`h'(a)`。图 D-2 展示了前向自动微分如何计算 ![f(x,y)=x^2y + y + 2](../images/tex-bf7d4f41a093293adbb04e43c7d12839.gif) 关于`x`，在 ![x=3, y=4](../images/tex-99e7bebb7eb398dc777eea8fa1bfe3ba.gif) 处的导数。我们所要做的一切只是计算 ![f(3+\epsilon, 4)](../images/tex-da5577f9751e71377558278256ff1115.gif)；它将输出一个对偶数，其第一部分等于 ![f(3, 4)](../images/tex-744a84046c00c267c037276ee9483cff.gif，第二部分等于 ![f^{'}(3, 4) = \frac{\partial f}{\partial x} (3,4)](../images/tex-399b8bab86aa930cdbf5c93b2e3fa818.gif)。
+最重要的，可证明`h(a + bϵ) = h(a) + b × h'(a)ϵ`，所以计算一次`h(a + ϵ)`就得到了两个值`h(a)`和`h'(a)`。图 D-2 展示了前向自动微分如何计算 ![f(x,y)=x^2y + y + 2](../images/tex-bf7d4f41a093293adbb04e43c7d12839.gif) 关于`x`，在 ![x=3, y=4](../images/tex-99e7bebb7eb398dc777eea8fa1bfe3ba.gif) 处的导数。我们所要做的一切只是计算 ![f(3+\epsilon, 4)](../images/tex-da5577f9751e71377558278256ff1115.gif)；它将输出一个对偶数，其第一部分等于 ![f(3, 4)](../images/tex-744a84046c00c267c037276ee9483cff.gif)，第二部分等于 ![f^{'}(3, 4) = \frac{\partial f}{\partial x} (3,4)](../images/tex-399b8bab86aa930cdbf5c93b2e3fa818.gif)。
 
 ![D-2](../images/Appendix/D-2.png)
 
