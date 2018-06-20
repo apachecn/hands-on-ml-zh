@@ -18,7 +18,7 @@
 
 ## 目录结构
 
-* 0.) [前言](docs/0.前言.md)
+* [零、前言](docs/0.前言.md)
 
 ### 第一部分 机器学习基础
 
@@ -45,7 +45,7 @@
 ### 附录
 
 * [附录 C、SVM 对偶问题](docs/C.SVM_对偶问题.md)
-* [附录 D、自动求导](docs/D.自动微分.md)
+* [附录 D、自动微分](docs/D.自动微分.md)
 
 ## 联系方式
 
@@ -80,7 +80,7 @@
 | 十六、强化学习 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@rickllyxu](https://github.com/rickllyxu) |
 | **附录** | - | - |
 | 附录 C、SVM 对偶问题 | [@rickllyxu](https://github.com/rickllyxu) |
-| 附录 D、自动求导 | [@rickllyxu](https://github.com/rickllyxu) |
+| 附录 D、自动微分 | [@rickllyxu](https://github.com/rickllyxu) |
 | 其它 | [@片刻](https://github.com/jiangzhonglian) |
 
 ## 编译

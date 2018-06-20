@@ -1,6 +1,6 @@
-# Appendix D 自动微分
+# 附录 D、自动微分
 
- 这个附录解释了 TensorFlow 的自动微分功能是如何工作的，以及它与其他解决方案的对比。
+这个附录解释了 TensorFlow 的自动微分功能是如何工作的，以及它与其他解决方案的对比。
 
 假定你定义了函数 ![f(x, y) = x^2y + y + 2](../images/tex-162751afe7e0aa904426973dbac3654e.gif), 需要得到它的偏导数 ![\frac{\partial f}{\partial x}](../images/tex-f6e0346d1d3410b0fbe32b41b85999aa.gif)和 ![\frac{\partial f}{\partial y}](../images/tex-408378e8bc55170258126d10000c53d9.gif)，以用于梯度下降或者其他优化算法。你的可选方案有手动微分法，符号微分法，数值微分法，前向自动微分，和反向自动微分。TensorFlow实现的反向自动微分法。我们来看看每种方案。
 
