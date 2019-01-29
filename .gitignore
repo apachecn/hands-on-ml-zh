@@ -99,12 +99,20 @@ ENV/
 
 # mypy
 .mypy_cache/
+.DS_Store
 
-# Gitbook
-_book/
+# gitbook
+_book
 
-# Windows
+# node.js
+node_modules
+
+# windows
 Thumbs.db
 
-# Node.js
-node_modules/
+# word
+~$*.docx
+~$*.doc
+
+# custom
+docs/README.md
