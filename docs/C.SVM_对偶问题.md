@@ -1,5 +1,7 @@
 # 附录 C、SVM 对偶问题
 
+> 译者：[@rickllyxu](https://github.com/rickllyxu)
+
 为了理解对偶性，你首先得理解拉格朗日乘子法。它基本思想是将一个有约束优化问题转化为一个无约束优化问题，其方法是将约束条件移动到目标函数中去。让我们看一个简单的例子，例如要找到合适的 ![x](../images/tex-9dd4e461268c8034f5c8564e155c67a6.gif) 和 ![y](../images/tex-415290769594460e2e485922904f345d.gif) 使得函数 ![f(x, y) = x^2 + 2y](../images/tex-ec2b11c28f337d90d1a55c83bd738475.gif) 最小化，且其约束条件是一个等式约束：![3x + 2y + 1 = 0](../images/tex-08bc7e7224cfe0e39e04b69d4ed96298.gif)。使用拉格朗日乘子法，我们首先定义一个函数，称为**拉格朗日函数**：![g(x, y, \alpha) = f(x, y) - \alpha(3x + 2y + 1)](../images/tex-e78acaa101dc94594e813eab3f01f428.gif)。每个约束条件（在这个例子中只有一个）与新的变量（称为拉格朗日乘数）相乘，作为原目标函数的减数。
 
 Joseph-Louis Lagrange 大牛证明了如果 ![(\bar{x}, \bar{y})](../images/tex-fe85b05b6cd2641c29612bc75a270208.gif) 是原约束优化问题的解，那么一定存在一个 ![\bar{\alpha}](../images/tex-d9c29791dd3b792c7702ed2b7cf5ac40.gif)，使得 ![(\bar{x}, \bar{y}, \bar{\alpha})](../images/tex-ac2d6cc9cbad11acc20ba9f6dd0ef830.gif) 是拉格朗日函数的驻点（驻点指的是，在该点处，该函数所有的偏导数均为 0）。换句话说，我们可以计算拉格朗日函数 ![g(x, y, \alpha) ](../images/tex-c663f5d534674fc3f1b13074c6ae467b.gif) 关于 ![x, y](../images/tex-2317793a8de61ab32c0f17adff9ea8d4.gif) 以及 ![\alpha](../images/tex-7b7f9dbfea05c83784f8b85149852f08.gif) 的偏导数；然后我们可以找到那些偏导数均为 0 的驻点；最后原约束优化问题的解（如果存在）一定在这些驻点里面。

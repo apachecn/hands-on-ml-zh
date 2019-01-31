@@ -49,41 +49,11 @@
 * [附录 C、SVM 对偶问题](docs/C.SVM_对偶问题.md)
 * [附录 D、自动微分](docs/D.自动微分.md)
 
-## 联系方式
-
-> 项目负责人
+## 项目负责人
 
 * [@SeanCheney](https://www.jianshu.com/u/130f76596b02): 731384963
 * [@飞龙](https://github.com/wizardforcel): 562826179
-* [@小瑶](https://github.com/chenyyx): 190442212
-
-> 项目贡献者
-
-| 标题 | 译者 | 校对 |
-| --- | --- | --- |
-| 前言 | [@小瑶](https://github.com/chenyyx) | [@小瑶](https://github.com/chenyyx) |
-| **第一部分 机器学习基础** | - |
-| 一、机器学习概览 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@yanmengk](https://github.com/yanmengk) [@Liu Shangfeng](https://github.com/codershangfeng) |
-| 二、一个完整的机器学习项目 | [@SeanCheney](https://www.jianshu.com/u/130f76596b02) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) |
-| 三、分类 | [@时间魔术师](https://github.com/hewind1992) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) [@ZTFrom1994](https://github.com/ZTFrom1994) |
-| 四、训练模型 | [@C-PIG](https://github.com/C-PIG) | [@PeterHo](https://github.com/PeterHo) [@飞龙](https://github.com/wizardforcel) |
-| 五、支持向量机 | [@QiaoXie](https://github.com/QiaoXie) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
-| 六、决策树 | [@Lisanaaa](https://github.com/Lisanaaa) [@y3534365](https://github.com/y3534365) | [@飞龙](https://github.com/wizardforcel) |
-| 七、集成学习和随机森林 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
-| 八、降维 | [@loveSnowBest](https://github.com/zehuichen123) | [@飞龙](https://github.com/wizardforcel) [@PeterHo](https://github.com/PeterHo) [@yanmengk](https://github.com/yanmengk) |
-| **第二部分 神经网络与深度学习** | - |
-| 九、启动并运行 TensorFlow | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@Lisanaaa](https://github.com/Lisanaaa) [@飞龙](https://github.com/wizardforcel) |
-| 十、人工神经网络介绍 | [@akonwang](https://github.com/wangxupeng) [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) |
-| 十一、训练深层神经网络 | [@akonwang](https://github.com/wangxupeng) [@飞龙](https://github.com/wizardforcel) | [@飞龙](https://github.com/wizardforcel) [@Zeyu Zhong](https://github.com/zhearing) |
-| 十二、设备和服务器上的分布式 TensorFlow | [*@空白*](https://github.com/yhcheer) | [@飞龙](https://github.com/wizardforcel) |
-| 十三、卷积神经网络 | [@akonwang](https://github.com/wangxupeng) [@WilsonQu](https://github.com/WilsonQu) | [@飞龙](https://github.com/wizardforcel) [@yanmengk](https://github.com/yanmengk) |
-| 十四、循环神经网络 | [@akonwang](https://github.com/wangxupeng) [@alexcheen](https://github.com/alexcheen) [@飞龙](https://github.com/wizardforcel) | [@飞龙](https://github.com/wizardforcel) |
-| 十五、自编码器 | [@akonwang](https://github.com/wangxupeng) | [@飞龙](https://github.com/wizardforcel) [@yanmengk](https://github.com/yanmengk) |
-| 十六、强化学习 | [@friedhelm739](https://github.com/friedhelm739) | [@飞龙](https://github.com/wizardforcel) [@rickllyxu](https://github.com/rickllyxu) |
-| **附录** | - | - |
-| 附录 C、SVM 对偶问题 | [@rickllyxu](https://github.com/rickllyxu) |
-| 附录 D、自动微分 | [@rickllyxu](https://github.com/rickllyxu) |
-| 其它 | [@片刻](https://github.com/jiangzhonglian) |
+* [@片刻](https://github.com/chenyyx): 529815144
 
 ## 编译
 
