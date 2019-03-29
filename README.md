@@ -16,7 +16,8 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/hands-on-ml-with-sklearn-and-tf)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/hands-on-ml-with-sklearn-and-tf)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/hands-on-ml-with-sklearn-and-tf)
-+ [代码仓库](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
++ [英文仓库](https://github.com/ageron/handson-ml)
++ [中文仓库](https://github.com/apachecn/hands-on-ml-zh)
 
 ## 目录结构
 
