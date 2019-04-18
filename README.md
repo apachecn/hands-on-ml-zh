@@ -1,5 +1,18 @@
 # Sklearn 与 TensorFlow 机器学习实用指南
 
+> Special Sponsors
+
+<table>
+      <tbody>
+        <tr>
+          <td align="center" valign="middle">
+            <a href="https://coding.net/?utm_source=ApacheCN&utm_medium=banner&utm_campaign=march2019" target="_blank">
+              <img width="1080" src="http://data.apachecn.org/img/SpecialSponsors/CodingNet.png">
+            </a>
+          </td>
+      </tbody>
+</table>
+
 > 注：感谢各位贡献者的贡献，该项目的网站已经下线，项目内容不再更新！
 > 
 > 对此我们感到非常抱歉。为了补偿大家，我们特地启动了[ Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)项目。感谢大家一如既往的支持，同时也希望大家能够继续为我们提出建议，或参与改善我们的项目。
